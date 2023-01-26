@@ -19,7 +19,7 @@ enable users to insert, find, update, and delete data from a database within a G
 
 <p align="center">
 Works as a Address Book. Can store multiple users add, delete, and save the contacts in the program: <br/>
-<img src="https://i.imgur.com/wvLmSiV.png" height="50%" width="50%" alt="Address Book"/>
+<img src="https://i.imgur.com/wvLmSiV.png" height="50%" width="50%"/>
 <br />
 <br />
 
