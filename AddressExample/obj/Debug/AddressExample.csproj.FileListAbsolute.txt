@@ -1,0 +1,14 @@
+D:\CIS317\AddressExample\AddressExample\bin\Debug\AddressBook.mdf
+D:\CIS317\AddressExample\AddressExample\bin\Debug\AddressBook_log.ldf
+D:\CIS317\AddressExample\AddressExample\bin\Debug\EntityFramework.dll
+D:\CIS317\AddressExample\AddressExample\bin\Debug\EntityFramework.SqlServer.dll
+D:\CIS317\AddressExample\AddressExample\bin\Debug\EntityFramework.xml
+D:\CIS317\AddressExample\AddressExample\bin\Debug\EntityFramework.SqlServer.xml
+D:\CIS317\AddressExample\AddressExample\obj\Debug\AddressExample.csproj.AssemblyReference.cache
+D:\CIS317\AddressExample\AddressExample\obj\Debug\AddressExample.csproj.CoreCompileInputs.cache
+D:\CIS317\AddressExample\AddressExample\obj\Debug\AddressExample.csproj.CopyComplete
+D:\CIS317\AddressExample\AddressExample\obj\Debug\AddressExample.dll
+D:\CIS317\AddressExample\AddressExample\obj\Debug\AddressExample.pdb
+D:\CIS317\AddressExample\AddressExample\bin\Debug\AddressExample.dll.config
+D:\CIS317\AddressExample\AddressExample\bin\Debug\AddressExample.dll
+D:\CIS317\AddressExample\AddressExample\bin\Debug\AddressExample.pdb
